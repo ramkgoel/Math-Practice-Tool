@@ -13,7 +13,7 @@ axios.get(url)
       paragraphs.push(paragraphContent);
     });
 
-    console.log(paragraphs);
+    console.log(paragraphs.slice(3,6));
   })
   .catch(error => {
     console.error('Error:', error);
