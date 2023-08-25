@@ -1,7 +1,7 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
 
-const url = 'YOUR_URL_HERE'; // Replace with the URL of the webpage to scrape
+const url = 'https://artofproblemsolving.com/wiki/index.php/2010_AMC_10A_Problems'; // Replace with the URL of the webpage to scrape
 
 axios.get(url)
   .then(response => {
@@ -9,7 +9,7 @@ axios.get(url)
     const paragraphs = [];
 
     $('p').each((index, element) => {
-      const paragraphContent = $(element).text().trim();
+      const paragraphContent = $(element).html();
       paragraphs.push(paragraphContent);
     });
 
