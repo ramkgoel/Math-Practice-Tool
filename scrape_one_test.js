@@ -35,7 +35,7 @@ function extractAndConvertToJson(htmlContent) {
 }
 
 // Replace 'https://example.com/your-html-file.html' with the actual URL
-const htmlUrl = 'https://example.com/your-html-file.html';
+const htmlUrl = 'https://ramkgoel.github.io/Math-Practice-Tool/fetched_AMC_HTML/2017_AMC_10A_Problems.html';
 
 // Make an HTTP request to fetch the HTML content
 fetch(htmlUrl)
