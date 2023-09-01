@@ -1,0 +1,243 @@
+[
+  {
+    "title": "Contents",
+    "subject": "A",
+    "paragraphs": []
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_1\">Problem 1</span>",
+    "subject": "A",
+    "paragraphs": [
+      "What is the value of <img src=\"//latex.artofproblemsolving.com/5/8/f/58f83d4d7d692d9e5ae0dbd561e9e28ef0808623.png\" class=\"latexcenter\" alt=\"\\[\\left(\\left((2+1)^{-1}+1\\right)^{-1}+1\\right)^{-1}+1?\\]\" width=\"244\" height=\"35\">$\\textbf{(A) } \\frac58 \\qquad \\textbf{(B) }\\frac{11}7 \\qquad \\textbf{(C) } \\frac85 \\qquad \\textbf{(D) } \\frac{18}{11} \\qquad \\textbf{(E) } \\frac{15}8$\n",
+      "<a href=\"/wiki/index.php/2018_AMC_10A_Problems/Problem_1\" title=\"2018 AMC 10A Problems/Problem 1\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_2\">Problem 2</span>",
+    "subject": "A",
+    "paragraphs": [
+      "Liliane has $50\\%$ more soda than Jacqueline, and Alice has $25\\%$ more soda than Jacqueline. What is the relationship between the amounts of soda that Liliane and Alice have?\n",
+      "$\\textbf{(A)}$  Liliane has $20\\%$ more soda than Alice. \n",
+      "$\\textbf{(B)}$  Liliane has $25\\%$ more soda than Alice. \n",
+      "$\\textbf{(C)}$  Liliane has $45\\%$ more soda than Alice. \n",
+      "$\\textbf{(D)}$  Liliane has $75\\%$ more soda than Alice.\n",
+      "$\\textbf{(E)}$  Liliane has $100\\%$ more soda than Alice.\n",
+      "<a href=\"/wiki/index.php/2018_AMC_10A_Problems/Problem_2\" title=\"2018 AMC 10A Problems/Problem 2\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_3\">Problem 3</span>",
+    "subject": "A",
+    "paragraphs": [
+      "A unit of blood expires after $10!=10\\cdot 9 \\cdot 8 \\cdots 1$ seconds. Yasin donates a unit of blood at noon of January 1. On what day does his unit of blood expire?\n",
+      "$\\textbf{(A) }\\text{January 2}\\qquad\\textbf{(B) }\\text{January 12}\\qquad\\textbf{(C) }\\text{January 22}\\qquad\\textbf{(D) }\\text{February 11}\\qquad\\textbf{(E) }\\text{February 12}$\n",
+      "<a href=\"/wiki/index.php/2018_AMC_10A_Problems/Problem_3\" title=\"2018 AMC 10A Problems/Problem 3\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_4\">Problem 4</span>",
+    "subject": "A",
+    "paragraphs": [
+      "How many ways can a student schedule $3$ mathematics courses -- algebra, geometry, and number theory -- in a $6$-period day if no two mathematics courses can be taken in consecutive periods? (What courses the student takes during the other $3$ periods is of no concern here.)\n",
+      "$\\textbf{(A) }3\\qquad\\textbf{(B) }6\\qquad\\textbf{(C) }12\\qquad\\textbf{(D) }18\\qquad\\textbf{(E) }24$\n",
+      "<a href=\"/wiki/index.php/2018_AMC_10A_Problems/Problem_4\" title=\"2018 AMC 10A Problems/Problem 4\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_5\">Problem 5</span>",
+    "subject": "A",
+    "paragraphs": [
+      "Alice, Bob, and Charlie were on a hike and were wondering how far away the nearest town was. When Alice said, \"We are at least $6$ miles away,\" Bob replied, \"We are at most $5$ miles away.\" Charlie then remarked, \"Actually the nearest town is at most $4$ miles away.\" It turned out that none of the three statements were true. Let $d$ be the distance in miles to the nearest town. Which of the following intervals is the set of all possible values of $d$?\n",
+      "$\\textbf{(A) }   (0,4)   \\qquad        \\textbf{(B) }   (4,5)   \\qquad    \\textbf{(C) }   (4,6)   \\qquad   \\textbf{(D) }  (5,6)  \\qquad  \\textbf{(E) }   (5,\\infty)$\n",
+      "<a href=\"/wiki/index.php/2018_AMC_10A_Problems/Problem_5\" title=\"2018 AMC 10A Problems/Problem 5\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_6\">Problem 6</span>",
+    "subject": "A",
+    "paragraphs": [
+      "Sangho uploaded a video to a website where viewers can vote that they like or dislike a video. Each video begins with a score of $0$, and the score increases by $1$ for each like vote and decreases by $1$ for each dislike vote. At one point Sangho saw that his video had a score of $90$, and that $65\\%$ of the votes cast on his video were like votes. How many votes had been cast on Sangho's video at that point?\n",
+      "$\\textbf{(A) }   200   \\qquad        \\textbf{(B) }   300   \\qquad    \\textbf{(C) }   400   \\qquad   \\textbf{(D) }  500  \\qquad  \\textbf{(E) }   600$\n",
+      "<a href=\"/wiki/index.php/2018_AMC_10A_Problems/Problem_6\" title=\"2018 AMC 10A Problems/Problem 6\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_7\">Problem 7</span>",
+    "subject": "A",
+    "paragraphs": [
+      "For how many (not necessarily positive) integer values of $n$ is the value of $4000\\cdot \\left(\\tfrac{2}{5}\\right)^n$ an integer?\n",
+      "$\\textbf{(A) }3 \\qquad \\textbf{(B) }4 \\qquad \\textbf{(C) }6 \\qquad \\textbf{(D) }8 \\qquad \\textbf{(E) }9 \\qquad$\n",
+      "<a href=\"/wiki/index.php/2018_AMC_10A_Problems/Problem_7\" title=\"2018 AMC 10A Problems/Problem 7\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_8\">Problem 8</span>",
+    "subject": "A",
+    "paragraphs": [
+      "Joe has a collection of $23$ coins, consisting of $5$-cent coins, $10$-cent coins, and $25$-cent coins. He has $3$ more $10$-cent coins than $5$-cent coins, and the total value of his collection is $320$ cents. How many more $25$-cent coins does Joe have than $5$-cent coins?\n",
+      "$\\textbf{(A) }   0   \\qquad        \\textbf{(B) }   1   \\qquad    \\textbf{(C) }   2   \\qquad   \\textbf{(D) }  3  \\qquad  \\textbf{(E) }   4$\n",
+      "<a href=\"/wiki/index.php/2018_AMC_10A_Problems/Problem_8\" title=\"2018 AMC 10A Problems/Problem 8\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_9\">Problem 9</span>",
+    "subject": "A",
+    "paragraphs": [
+      "All of the triangles in the diagram below are similar to isosceles triangle $ABC$, in which $AB=AC$. Each of the $7$ smallest triangles has area $1,$ and $\\triangle ABC$ has area $40$. What is the area of trapezoid $DBCE$?\n",
+      "<img src=\"//latex.artofproblemsolving.com/d/1/3/d13adfd6d388ea5d30660f97f3b425db198e8093.png\" class=\"latexcenter\" alt=\"[asy] unitsize(5); dot((0,0)); dot((60,0)); dot((50,10)); dot((10,10)); dot((30,30)); draw((0,0)--(60,0)--(50,10)--(30,30)--(10,10)--(0,0)); draw((10,10)--(50,10)); label(&quot;$B$&quot;,(0,0),SW); label(&quot;$C$&quot;,(60,0),SE); label(&quot;$E$&quot;,(50,10),E); label(&quot;$D$&quot;,(10,10),W); label(&quot;$A$&quot;,(30,30),N); draw((10,10)--(15,15)--(20,10)--(25,15)--(30,10)--(35,15)--(40,10)--(45,15)--(50,10)); draw((15,15)--(45,15)); [/asy]\" width=\"545\" height=\"295\">\n",
+      "$\\textbf{(A) }   16   \\qquad        \\textbf{(B) }   18   \\qquad    \\textbf{(C) }   20   \\qquad   \\textbf{(D) }  22 \\qquad  \\textbf{(E) }   24$\n",
+      "<a href=\"/wiki/index.php/2018_AMC_10A_Problems/Problem_9\" title=\"2018 AMC 10A Problems/Problem 9\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_10\">Problem 10</span>",
+    "subject": "A",
+    "paragraphs": [
+      "Suppose that real number $x$ satisfies <img src=\"//latex.artofproblemsolving.com/4/5/5/455507f3847bbb682b4adb89afb670ddbdb33721.png\" class=\"latexcenter\" alt=\"\\[\\sqrt{49-x^2}-\\sqrt{25-x^2}=3.\\]\" width=\"205\" height=\"18\"> What is the value of $\\sqrt{49-x^2}+\\sqrt{25-x^2}$?\n",
+      "$\\textbf{(A) }8 \\qquad \\textbf{(B) }\\sqrt{33}+8\\qquad \\textbf{(C) }9 \\qquad \\textbf{(D) }2\\sqrt{10}+4 \\qquad \\textbf{(E) }12 \\qquad$\n",
+      "<a href=\"/wiki/index.php/2018_AMC_10A_Problems/Problem_10\" title=\"2018 AMC 10A Problems/Problem 10\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_11\">Problem 11</span>",
+    "subject": "A",
+    "paragraphs": [
+      "When $7$ fair standard $6$-sided dice are thrown, the probability that the sum of the numbers on the top faces is $10$ can be written as <img src=\"//latex.artofproblemsolving.com/5/a/c/5ac603cdac4dfed9654cab1540ba3f1927ef6202.png\" class=\"latexcenter\" alt=\"\\[\\frac{n}{6^{7}},\\]\" width=\"22\" height=\"32\"> where $n$ is a positive integer. What is $n$?\n",
+      "$\\textbf{(A) }42\\qquad \\textbf{(B) }49\\qquad \\textbf{(C) }56\\qquad \\textbf{(D) }63\\qquad \\textbf{(E) }84\\qquad$\n",
+      "<a href=\"/wiki/index.php/2018_AMC_10A_Problems/Problem_11\" title=\"2018 AMC 10A Problems/Problem 11\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_12\">Problem 12</span>",
+    "subject": "A",
+    "paragraphs": [
+      "How many ordered pairs of real numbers $(x,y)$ satisfy the following system of equations?\n<img src=\"//latex.artofproblemsolving.com/b/5/8/b58992285436b1813d31a4762ccfd7307d087e7e.png\" class=\"latexcenter\" alt=\"\\begin{align*} x+3y&amp;=3 \\\\ \\big||x|-|y|\\big|&amp;=1 \\end{align*}\" width=\"104\" height=\"46\">\n$\\textbf{(A) } 1 \\qquad  \\textbf{(B) } 2 \\qquad  \\textbf{(C) } 3 \\qquad  \\textbf{(D) } 4 \\qquad  \\textbf{(E) } 8$\n",
+      "<a href=\"/wiki/index.php/2018_AMC_10A_Problems/Problem_12\" title=\"2018 AMC 10A Problems/Problem 12\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_13\">Problem 13</span>",
+    "subject": "A",
+    "paragraphs": [
+      "A paper triangle with sides of lengths $3,4,$ and $5$ inches, as shown, is folded so that point $A$ falls on point $B$. What is the length in inches of the crease?\n<img src=\"//latex.artofproblemsolving.com/2/1/1/21145c9f39a3f3cd34317f8b1f8e3f3541c3c477.png\" class=\"latexcenter\" alt=\"[asy] draw((0,0)--(4,0)--(4,3)--(0,0)); label(&quot;$A$&quot;, (0,0), SW); label(&quot;$B$&quot;, (4,3), NE); label(&quot;$C$&quot;, (4,0), SE); label(&quot;$4$&quot;, (2,0), S); label(&quot;$3$&quot;, (4,1.5), E); label(&quot;$5$&quot;, (2,1.5), NW); fill(origin--(0,0)--(4,3)--(4,0)--cycle, gray); [/asy]\" width=\"252\" height=\"198\">\n$\\textbf{(A) }   1+\\frac12 \\sqrt2   \\qquad        \\textbf{(B) }   \\sqrt3   \\qquad    \\textbf{(C) }   \\frac74   \\qquad   \\textbf{(D) }  \\frac{15}{8} \\qquad  \\textbf{(E) }   2$\n",
+      "<a href=\"/wiki/index.php/2018_AMC_10A_Problems/Problem_13\" title=\"2018 AMC 10A Problems/Problem 13\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_14\">Problem 14</span>",
+    "subject": "A",
+    "paragraphs": [
+      "What is the greatest integer less than or equal to <img src=\"//latex.artofproblemsolving.com/7/e/9/7e9fe91da45cd2ff16c0da3c9b0d7ba0a4f1d510.png\" class=\"latexcenter\" alt=\"\\[\\frac{3^{100}+2^{100}}{3^{96}+2^{96}}?\\]\" width=\"91\" height=\"40\">\n",
+      "$\\textbf{(A) }80\\qquad \\textbf{(B) }81 \\qquad \\textbf{(C) }96 \\qquad \\textbf{(D) }97 \\qquad \\textbf{(E) }625\\qquad$\n",
+      "<a href=\"/wiki/index.php/2018_AMC_10A_Problems/Problem_14\" title=\"2018 AMC 10A Problems/Problem 14\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_15\">Problem 15</span>",
+    "subject": "A",
+    "paragraphs": [
+      "Two circles of radius $5$ are externally tangent to each other and are internally tangent to a circle of radius $13$ at points  $A$ and $B$, as shown in the diagram. The distance $AB$ can be written in the form $\\tfrac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. What is $m+n$?\n",
+      "<img src=\"//latex.artofproblemsolving.com/c/1/d/c1d7b33c122356459463ccf321031d04f8f53752.png\" class=\"latexcenter\" alt=\"[asy] draw(circle((0,0),13)); draw(circle((5,-6.2),5)); draw(circle((-5,-6.2),5)); label(&quot;$B$&quot;, (9.5,-9.5), S); label(&quot;$A$&quot;, (-9.5,-9.5), S); [/asy]\" width=\"252\" height=\"252\">\n",
+      "$\\textbf{(A) }   21   \\qquad    \\textbf{(B) }  29   \\qquad    \\textbf{(C) }  58   \\qquad   \\textbf{(D) } 69 \\qquad  \\textbf{(E) }   93$\n",
+      "<a href=\"/wiki/index.php/2018_AMC_10A_Problems/Problem_15\" title=\"2018 AMC 10A Problems/Problem 15\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_16\">Problem 16</span>",
+    "subject": "A",
+    "paragraphs": [
+      "Right triangle $ABC$ has leg lengths $AB=20$ and $BC=21$. Including $\\overline{AB}$ and $\\overline{BC}$, how many line segments with integer length can be drawn from vertex $B$ to a point on hypotenuse $\\overline{AC}$?\n",
+      "$\\textbf{(A) }5 \\qquad \\textbf{(B) }8 \\qquad \\textbf{(C) }12 \\qquad \\textbf{(D) }13 \\qquad \\textbf{(E) }15 \\qquad$\n",
+      "<a href=\"/wiki/index.php/2018_AMC_10A_Problems/Problem_16\" title=\"2018 AMC 10A Problems/Problem 16\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_17\">Problem 17</span>",
+    "subject": "A",
+    "paragraphs": [
+      "Let $S$ be a set of $6$ integers taken from $\\{1,2,\\dots,12\\}$ with the property that if $a$ and $b$ are elements of $S$ with $a<b$, then $b$ is not a multiple of $a$. What is the least possible value of an element in $S$?\n",
+      "$\\textbf{(A)}\\ 2\\qquad\\textbf{(B)}\\ 3\\qquad\\textbf{(C)}\\ 4\\qquad\\textbf{(D)}\\ 5\\qquad\\textbf{(E)}\\ 7$\n",
+      "<a href=\"/wiki/index.php/2018_AMC_10A_Problems/Problem_17\" title=\"2018 AMC 10A Problems/Problem 17\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_18\">Problem 18</span>",
+    "subject": "A",
+    "paragraphs": [
+      "How many nonnegative integers can be written in the form <img src=\"//latex.artofproblemsolving.com/1/2/e/12e09c391eb94ff988e6dcfc490ddb6c72e79342.png\" class=\"latexcenter\" alt=\"\\[a_7\\cdot3^7+a_6\\cdot3^6+a_5\\cdot3^5+a_4\\cdot3^4+a_3\\cdot3^3+a_2\\cdot3^2+a_1\\cdot3^1+a_0\\cdot3^0,\\]\" width=\"478\" height=\"18\">\nwhere $a_i\\in \\{-1,0,1\\}$ for $0\\le i \\le 7$?\n",
+      "$\\textbf{(A) } 512 \\qquad  \\textbf{(B) } 729 \\qquad  \\textbf{(C) } 1094 \\qquad  \\textbf{(D) } 3281 \\qquad  \\textbf{(E) } 59,048$\n",
+      "<a href=\"/wiki/index.php/2018_AMC_10A_Problems/Problem_18\" title=\"2018 AMC 10A Problems/Problem 18\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_19\">Problem 19</span>",
+    "subject": "A",
+    "paragraphs": [
+      "A number $m$ is randomly selected from the set $\\{11,13,15,17,19\\}$, and a number $n$ is randomly selected from $\\{1999,2000,2001,\\ldots,2018\\}$. What is the probability that $m^n$ has a units digit of $1$?\n",
+      "$\\textbf{(A) }   \\frac{1}{5}   \\qquad        \\textbf{(B) }   \\frac{1}{4}   \\qquad    \\textbf{(C) }   \\frac{3}{10}   \\qquad   \\textbf{(D) } \\frac{7}{20} \\qquad  \\textbf{(E) }   \\frac{2}{5}$\n",
+      "<a href=\"/wiki/index.php/2018_AMC_10A_Problems/Problem_19\" title=\"2018 AMC 10A Problems/Problem 19\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_20\">Problem 20</span>",
+    "subject": "A",
+    "paragraphs": [
+      "A scanning code consists of a $7 \\times 7$ grid of squares, with some of its squares colored black and the rest colored white. There must be at least one square of each color in this grid of $49$ squares. A scanning code is called $\\textit{symmetric}$ if its look does not change when the entire square is rotated by a multiple of $90 ^{\\circ}$ counterclockwise around its center, nor when it is reflected across a line joining opposite corners or a line joining midpoints of opposite sides. What is the total number of possible symmetric scanning codes?\n",
+      "$\\textbf{(A)} \\text{ 510} \\qquad \\textbf{(B)} \\text{ 1022} \\qquad \\textbf{(C)} \\text{ 8190} \\qquad \\textbf{(D)} \\text{ 8192} \\qquad \\textbf{(E)} \\text{ 65,534}$\n",
+      "<a href=\"/wiki/index.php/2018_AMC_10A_Problems/Problem_20\" title=\"2018 AMC 10A Problems/Problem 20\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_21\">Problem 21</span>",
+    "subject": "A",
+    "paragraphs": [
+      "Which of the following describes the set of values of $a$ for which the curves $x^2+y^2=a^2$ and $y=x^2-a$ in the real $xy$-plane intersect at exactly $3$ points?\n",
+      "$\\textbf{(A) }a=\\frac14 \\qquad \\textbf{(B) }\\frac14 < a < \\frac12 \\qquad \\textbf{(C) }a>\\frac14 \\qquad \\textbf{(D) }a=\\frac12 \\qquad \\textbf{(E) }a>\\frac12 \\qquad$\n",
+      "<a href=\"/wiki/index.php/2018_AMC_10A_Problems/Problem_21\" title=\"2018 AMC 10A Problems/Problem 21\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_22\">Problem 22</span>",
+    "subject": "A",
+    "paragraphs": [
+      "Let $a, b, c,$ and $d$ be positive integers such that $\\gcd(a, b)=24$, $\\gcd(b, c)=36$, $\\gcd(c, d)=54$, and $70<\\gcd(d, a)<100$. Which of the following must be a divisor of $a$?\n",
+      "$\\textbf{(A)} \\text{ 5} \\qquad \\textbf{(B)} \\text{ 7} \\qquad \\textbf{(C)} \\text{ 11} \\qquad \\textbf{(D)} \\text{ 13} \\qquad \\textbf{(E)} \\text{ 17}$\n",
+      "<a href=\"/wiki/index.php/2018_AMC_10A_Problems/Problem_22\" title=\"2018 AMC 10A Problems/Problem 22\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_23\">Problem 23</span>",
+    "subject": "A",
+    "paragraphs": [
+      "Farmer Pythagoras has a field in the shape of a right triangle. The right triangle's legs have lengths $3$ and $4$ units. In the corner where those sides meet at a right angle, he leaves a small unplanted square $S$ so that from the air it looks like the right angle symbol. The rest of the field is planted. The shortest distance from $S$ to the hypotenuse is $2$ units. What fraction of the field is planted?\n",
+      "<img src=\"//latex.artofproblemsolving.com/6/b/5/6b5bfa5f42fc9840c0ffe1710ea05baf44b0dfbc.png\" class=\"latexcenter\" alt=\"[asy] /* Edited by MRENTHUSIASM */ size(160); pair A, B, C, D, F; A = origin; B = (4,0); C = (0,3); D = (2/7,2/7); F = foot(D,B,C); fill(A--(2/7,0)--D--(0,2/7)--cycle, lightgray); draw(A--B--C--cycle); draw((2/7,0)--D--(0,2/7)); label(&quot;$4$&quot;, midpoint(A--B), N); label(&quot;$3$&quot;, midpoint(A--C), E); label(&quot;$2$&quot;, midpoint(D--F), SE); label(&quot;$S$&quot;, midpoint(A--D)); draw(D--F, dashed); [/asy]\" width=\"268\" height=\"202\">\n",
+      "$\\textbf{(A) }   \\frac{25}{27}   \\qquad        \\textbf{(B) }   \\frac{26}{27}   \\qquad    \\textbf{(C) }   \\frac{73}{75}   \\qquad   \\textbf{(D) } \\frac{145}{147} \\qquad  \\textbf{(E) }   \\frac{74}{75}$\n",
+      "<a href=\"/wiki/index.php/2018_AMC_10A_Problems/Problem_23\" title=\"2018 AMC 10A Problems/Problem 23\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_24\">Problem 24</span>",
+    "subject": "A",
+    "paragraphs": [
+      "Triangle $ABC$ with $AB=50$ and $AC=10$ has area $120$. Let $D$ be the midpoint of $\\overline{AB}$, and let $E$ be the midpoint of $\\overline{AC}$. The angle bisector of $\\angle BAC$ intersects $\\overline{DE}$ and $\\overline{BC}$ at $F$ and $G$, respectively. What is the area of quadrilateral $FDBG$?\n",
+      "$\\textbf{(A) }60 \\qquad \\textbf{(B) }65 \\qquad \\textbf{(C) }70 \\qquad \\textbf{(D) }75 \\qquad \\textbf{(E) }80 \\qquad$\n",
+      "<a href=\"/wiki/index.php/2018_AMC_10A_Problems/Problem_24\" title=\"2018 AMC 10A Problems/Problem 24\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_25\">Problem 25</span>",
+    "subject": "A",
+    "paragraphs": [
+      "For a positive integer $n$ and nonzero digits $a$, $b$, and $c$, let $A_n$ be the $n$-digit integer each of whose digits is equal to $a$; let $B_n$ be the $n$-digit integer each of whose digits is equal to $b$, and let $C_n$ be the $2n$-digit (not $n$-digit) integer each of whose digits is equal to $c$. What is the greatest possible value of $a + b + c$ for which there are at least two values of $n$ such that $C_n - B_n = A_n^2$?\n",
+      "$\\textbf{(A) } 12 \\qquad \\textbf{(B) } 14 \\qquad \\textbf{(C) } 16 \\qquad \\textbf{(D) } 18 \\qquad \\textbf{(E) } 20$\n",
+      "<a href=\"/wiki/index.php/2018_AMC_10A_Problems/Problem_25\" title=\"2018 AMC 10A Problems/Problem 25\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"See_also\">See also</span>",
+    "subject": "A",
+    "paragraphs": [
+      "The problems on this page are copyrighted by the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.maa.org\">Mathematical Association of America</a>'s <a rel=\"nofollow\" class=\"external text\" href=\"http://amc.maa.org\">American Mathematics Competitions</a>. <a href=\"/wiki/index.php/File:AMC_logo.png\" class=\"image\"><img alt=\"AMC logo.png\" src=\"https://wiki-images.artofproblemsolving.com//8/8b/AMC_logo.png\" width=\"97\" height=\"84\" style=\"vertical-align: middle\"></a>\n"
+    ]
+  }
+]
