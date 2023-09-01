@@ -11,7 +11,7 @@ function extractAndConvertToJson(htmlContent) {
 
   headings.forEach((heading) => {
       const group = {
-          title: heading.innerHTML,
+          title: heading.innerHTML, // Capture the HTML content
           paragraphs: []
       };
 
@@ -19,7 +19,9 @@ function extractAndConvertToJson(htmlContent) {
       let nextElement = heading.nextElementSibling;
       while (nextElement && nextElement.tagName !== 'H2') {
           if (nextElement.tagName === 'P') {
-              group.paragraphs.push(nextElement.innerHTML);
+              // Extract LaTeX content using a regular expression
+              const latexContent = nextElement.innerHTML.replace(/<img[^>]*class="latex"[^>]*alt="([^"]+)"[^>]*>/g, '$1');
+              group.paragraphs.push(latexContent);
           }
           nextElement = nextElement.nextElementSibling;
       }
@@ -30,12 +32,24 @@ function extractAndConvertToJson(htmlContent) {
   // Convert to JSON
   const jsonContent = JSON.stringify(jsonData, null, 2);
 
-  // Log to console (or save to a file if needed)
-  console.log(jsonContent);
+  // Create a Blob with the JSON data
+  const blob = new Blob([jsonContent], { type: 'application/json' });
+
+  // Create a URL for the Blob
+  const url = URL.createObjectURL(blob);
+
+  // Create a link for downloading the JSON file
+  const downloadLink = document.createElement('a');
+  downloadLink.href = url;
+  downloadLink.download = 'output.json';
+  downloadLink.textContent = 'Download JSON';
+
+  // Append the link to the document
+  document.body.appendChild(downloadLink);
 }
 
 // Replace 'https://example.com/your-html-file.html' with the actual URL
-const htmlUrl = 'https://ramkgoel.github.io/Math-Practice-Tool/fetched_AMC_HTML/2017_AMC_10A_Problems.html';
+const htmlUrl = 'https://example.com/your-html-file.html';
 
 // Make an HTTP request to fetch the HTML content
 fetch(htmlUrl)
