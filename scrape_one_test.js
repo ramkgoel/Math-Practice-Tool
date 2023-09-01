@@ -42,7 +42,7 @@ function extractAndConvertToJson(htmlContent) {
   // Create a link for downloading the JSON file
   const downloadLink = document.createElement('a');
   downloadLink.href = url;
-  downloadLink.download = '2017_AMC_10A.json';
+  downloadLink.download = '2018_AMC_10A.json';
   downloadLink.textContent = 'Download JSON';
 
   // Append the link to the document
@@ -50,7 +50,7 @@ function extractAndConvertToJson(htmlContent) {
 }
 
 // Replace 'https://example.com/your-html-file.html' with the actual URL
-const htmlUrl = 'https://ramkgoel.github.io/Math-Practice-Tool/fetched_AMC_HTML/2017_AMC_10A_Problems.html';
+const htmlUrl = 'https://ramkgoel.github.io/Math-Practice-Tool/fetched_AMC_HTML/2018_AMC_10A_Problems.html';
 
 // Make an HTTP request to fetch the HTML content
 fetch(htmlUrl)
