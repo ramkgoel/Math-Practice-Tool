@@ -1,20 +1,49 @@
-const axios = require('axios');
-const cheerio = require('cheerio');
+// JavaScript code goes here
+function extractAndConvertToJson(htmlContent) {
+  const jsonData = [];
 
-const url = 'https://artofproblemsolving.com/wiki/index.php/2010_AMC_10A_Problems'; // Replace with the URL of the webpage to scrape
+  // Create a temporary element to parse the HTML content
+  const tempDiv = document.createElement('div');
+  tempDiv.innerHTML = htmlContent;
 
-axios.get(url)
-  .then(response => {
-    const $ = cheerio.load(response.data);
-    const paragraphs = [];
+  // Find all h2 elements
+  const headings = tempDiv.querySelectorAll('h2');
 
-    $('p').each((index, element) => {
-      const paragraphContent = $(element).html();
-      paragraphs.push(paragraphContent);
-    });
+  headings.forEach((heading) => {
+      const group = {
+          title: heading.textContent,
+          paragraphs: []
+      };
 
-    console.log(paragraphs.slice(3,6));
+      // Find adjacent p elements until the next h2
+      let nextElement = heading.nextElementSibling;
+      while (nextElement && nextElement.tagName !== 'H2') {
+          if (nextElement.tagName === 'P') {
+              group.paragraphs.push(nextElement.textContent);
+          }
+          nextElement = nextElement.nextElementSibling;
+      }
+
+      jsonData.push(group);
+  });
+
+  // Convert to JSON
+  const jsonContent = JSON.stringify(jsonData, null, 2);
+
+  // Log to console (or save to a file if needed)
+  console.log(jsonContent);
+}
+
+// Replace 'https://example.com/your-html-file.html' with the actual URL
+const htmlUrl = 'https://example.com/your-html-file.html';
+
+// Make an HTTP request to fetch the HTML content
+fetch(htmlUrl)
+  .then(response => response.text())
+  .then(htmlContent => {
+      // Call the function to parse the HTML content
+      extractAndConvertToJson(htmlContent);
   })
   .catch(error => {
-    console.error('Error:', error);
+      console.error('Error fetching HTML content:', error);
   });
