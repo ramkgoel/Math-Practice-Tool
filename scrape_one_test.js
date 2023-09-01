@@ -11,7 +11,7 @@ function extractAndConvertToJson(htmlContent) {
 
   headings.forEach((heading) => {
       const group = {
-          title: heading.textContent,
+          title: heading.innerHTML,
           paragraphs: []
       };
 
@@ -19,7 +19,7 @@ function extractAndConvertToJson(htmlContent) {
       let nextElement = heading.nextElementSibling;
       while (nextElement && nextElement.tagName !== 'H2') {
           if (nextElement.tagName === 'P') {
-              group.paragraphs.push(nextElement.textContent);
+              group.paragraphs.push(nextElement.innerHTML);
           }
           nextElement = nextElement.nextElementSibling;
       }
