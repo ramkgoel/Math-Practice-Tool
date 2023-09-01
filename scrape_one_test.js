@@ -12,6 +12,7 @@ function extractAndConvertToJson(htmlContent) {
   headings.forEach((heading) => {
       const group = {
           title: heading.innerHTML, // Capture the HTML content
+          subject: 'A',
           paragraphs: []
       };
 
