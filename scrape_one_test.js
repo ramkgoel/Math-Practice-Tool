@@ -42,7 +42,7 @@ function extractAndConvertToJson(htmlContent) {
   // Create a link for downloading the JSON file
   const downloadLink = document.createElement('a');
   downloadLink.href = url;
-  downloadLink.download = 'output.json';
+  downloadLink.download = '2017_AMC_10A.json';
   downloadLink.textContent = 'Download JSON';
 
   // Append the link to the document

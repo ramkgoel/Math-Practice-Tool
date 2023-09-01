@@ -1,8 +1,8 @@
 const fs = require('fs');
 const axios = require('axios');
 
-const url = 'https://artofproblemsolving.com/wiki/index.php/2017_AMC_10A_Problems'; // Replace with the URL of the website
-const outputPath = 'fetched_AMC_HTML/2017_AMC_10A_Problems.html'; // Specify the output file path
+const url = 'https://artofproblemsolving.com/wiki/index.php/2018_AMC_10A_Problems'; // Replace with the URL of the website
+const outputPath = 'fetched_AMC_HTML/2018_AMC_10A_Problems.html'; // Specify the output file path
 
 axios.get(url)
     .then(response => {
