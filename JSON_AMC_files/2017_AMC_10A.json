@@ -1,0 +1,240 @@
+[
+  {
+    "title": "Contents",
+    "subject": "A",
+    "paragraphs": []
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_1\">Problem 1</span>",
+    "subject": "A",
+    "paragraphs": [
+      "What is the value of $(2(2(2(2(2(2+1)+1)+1)+1)+1)+1)$?\n",
+      "$\\textbf{(A)}\\ 70\\qquad\\textbf{(B)}\\ 97\\qquad\\textbf{(C)}\\ 127\\qquad\\textbf{(D)}\\ 159\\qquad\\textbf{(E)}\\ 729$\n",
+      "<a href=\"/wiki/index.php/2017_AMC_10A_Problems/Problem_1\" title=\"2017 AMC 10A Problems/Problem 1\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_2\">Problem 2</span>",
+    "subject": "A",
+    "paragraphs": [
+      "Pablo buys popsicles for his friends. The store sells single popsicles for $$1$ each, $3$-popsicle boxes for $$2$ each, and $5$-popsicle boxes for $$3$. What is the greatest number of popsicles that Pablo can buy with $$8$?\n",
+      "$\\textbf{(A)}\\ 8\\qquad\\textbf{(B)}\\ 11\\qquad\\textbf{(C)}\\ 12\\qquad\\textbf{(D)}\\ 13\\qquad\\textbf{(E)}\\ 15$\n",
+      "<a href=\"/wiki/index.php/2017_AMC_10A_Problems/Problem_2\" title=\"2017 AMC 10A Problems/Problem 2\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_3\">Problem 3</span>",
+    "subject": "A",
+    "paragraphs": [
+      "Tamara has three rows of two $6$-feet by $2$-feet flower beds in her garden. The beds are separated and also surrounded by $1$-foot-wide walkways, as shown on the diagram. What is the total area of the walkways, in square feet?\n",
+      "<img src=\"//latex.artofproblemsolving.com/3/f/3/3f3f120764dbcd2b3383097e2bf5010b26ee5619.png\" class=\"latexcenter\" alt=\"[asy] draw((0,0)--(0,10)--(15,10)--(15,0)--cycle); fill((0,0)--(0,10)--(15,10)--(15,0)--cycle, lightgray); draw((1,1)--(1,3)--(7,3)--(7,1)--cycle); fill((1,1)--(1,3)--(7,3)--(7,1)--cycle, white); draw((1,4)--(1,6)--(7,6)--(7,4)--cycle); fill((1,4)--(1,6)--(7,6)--(7,4)--cycle, white); draw((1,7)--(1,9)--(7,9)--(7,7)--cycle); fill((1,7)--(1,9)--(7,9)--(7,7)--cycle, white);  draw((8,1)--(8,3)--(14,3)--(14,1)--cycle); fill((8,1)--(8,3)--(14,3)--(14,1)--cycle, white); draw((8,4)--(8,6)--(14,6)--(14,4)--cycle); fill((8,4)--(8,6)--(14,6)--(14,4)--cycle, white); draw((8,7)--(8,9)--(14,9)--(14,7)--cycle); fill((8,7)--(8,9)--(14,9)--(14,7)--cycle, white);  defaultpen(fontsize(8, lineskip=1)); label(&quot;2&quot;, (1.2, 2)); label(&quot;6&quot;, (4, 1.2)); defaultpen(linewidth(.2)); draw((0,8)--(1,8), arrow=Arrows); draw((7,8)--(8,8), arrow=Arrows); draw((14,8)--(15,8), arrow=Arrows); draw((11,0)--(11,1), arrow=Arrows); draw((11,3)--(11,4), arrow=Arrows); draw((11,6)--(11,7), arrow=Arrows); label(&quot;1&quot;, (.5,7.8)); label(&quot;1&quot;, (7.5,7.8)); label(&quot;1&quot;, (14.5,7.8)); label(&quot;1&quot;, (10.8,.5)); label(&quot;1&quot;, (10.8,3.5)); label(&quot;1&quot;, (10.8,6.5)); [/asy]\" width=\"668\" height=\"445\">\n",
+      "<br>\n$\\textbf{(A)}\\ 72\\qquad\\textbf{(B)}\\ 78\\qquad\\textbf{(C)}\\ 90\\qquad\\textbf{(D)}\\ 120\\qquad\\textbf{(E)}\\ 150$\n",
+      "<a href=\"/wiki/index.php/2017_AMC_10A_Problems/Problem_3\" title=\"2017 AMC 10A Problems/Problem 3\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_4\">Problem 4</span>",
+    "subject": "A",
+    "paragraphs": [
+      "Mia is “helping” her mom pick up $30$ toys that are strewn on the floor. Mia’s mom manages to put $3$ toys into the toy box every $30$ seconds, but each time immediately after those $30$ seconds have elapsed, Mia takes $2$ toys out of the box. How much time, in minutes, will it take Mia and her mom to put all $30$ toys into the box for the first time?\n",
+      "$\\textbf{(A)}\\ 13.5\\qquad\\textbf{(B)}\\ 14\\qquad\\textbf{(C)}\\ 14.5\\qquad\\textbf{(D)}\\ 15\\qquad\\textbf{(E)}\\ 15.5$\n",
+      "<a href=\"/wiki/index.php/2017_AMC_10A_Problems/Problem_4\" title=\"2017 AMC 10A Problems/Problem 4\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_5\">Problem 5</span>",
+    "subject": "A",
+    "paragraphs": [
+      "The sum of two nonzero real numbers is $4$ times their product. What is the sum of the reciprocals of the two numbers?\n",
+      "$\\textbf{(A)}\\ 1\\qquad\\textbf{(B)}\\ 2\\qquad\\textbf{(C)}\\ 4\\qquad\\textbf{(D)}\\ 8\\qquad\\textbf{(E)}\\ 12$\n",
+      "<a href=\"/wiki/index.php/2017_AMC_10A_Problems/Problem_5\" title=\"2017 AMC 10A Problems/Problem 5\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_6\">Problem 6</span>",
+    "subject": "A",
+    "paragraphs": [
+      "Ms. Carroll promised that anyone who got all the multiple choice questions right on the upcoming exam would receive an A on the exam. Which of these statements necessarily follows logically?\n",
+      "$\\textbf{(A)}\\ \\text{If Lewis did not receive an A, then he got all of the multiple choice questions wrong.}\\\\\\textbf{(B)}\\ \\text{If Lewis did not receive an A, then he got at least one of the multiple choice questions wrong.}\\\\\\textbf{(C)}\\ \\text{If Lewis got at least one of the multiple choice questions wrong, then he did not receive an A. }\\\\\\textbf{(D)}\\ \\text{If Lewis received an A, then he got all of the multiple choice questions right.}\\\\\\textbf{(E)}\\ \\text{If Lewis received an A, then he got at least one of the multiple choice questions right.}$\n",
+      "<a href=\"/wiki/index.php/2017_AMC_10A_Problems/Problem_6\" title=\"2017 AMC 10A Problems/Problem 6\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_7\">Problem 7</span>",
+    "subject": "A",
+    "paragraphs": [
+      "Jerry and Silvia wanted to go from the southwest corner of a square field to the northeast corner. Jerry walked due east and then due north to reach the goal, but Silvia headed northeast and reached the goal walking in a straight line. Which of the following is closest to how much shorter Silvia's trip was, compared to Jerry's trip?\n",
+      "$\\textbf{(A)}\\ 30\\%\\qquad\\textbf{(B)}\\ 40\\%\\qquad\\textbf{(C)}\\ 50\\%\\qquad\\textbf{(D)}\\ 60\\%\\qquad\\textbf{(E)}\\ 70\\%$\n",
+      "<a href=\"/wiki/index.php/2017_AMC_10A_Problems/Problem_7\" title=\"2017 AMC 10A Problems/Problem 7\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_8\">Problem 8</span>",
+    "subject": "A",
+    "paragraphs": [
+      "At a gathering of $30$ people, there are $20$ people who all know each other and $10$ people who know no one. People who know each other hug, and people who do not know each other shake hands. How many handshakes occur?\n",
+      "$\\textbf{(A)}\\ 240\\qquad\\textbf{(B)}\\ 245\\qquad\\textbf{(C)}\\ 290\\qquad\\textbf{(D)}\\ 480\\qquad\\textbf{(E)}\\ 490$\n",
+      "<a href=\"/wiki/index.php/2017_AMC_10A_Problems/Problem_8\" title=\"2017 AMC 10A Problems/Problem 8\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_9\">Problem 9</span>",
+    "subject": "A",
+    "paragraphs": [
+      "Minnie rides on a flat road at $20$ kilometers per hour (kph), downhill at $30$ kph, and uphill at $5$ kph. Penny rides on a flat road at $30$ kph, downhill at $40$ kph, and uphill at $10$ kph. Minnie goes from town $A$ to town $B$, a distance of $10$ km all uphill, then from town $B$ to town $C$, a distance of $15$ km all downhill, and then back to town $A$, a distance of $20$ km on the flat. Penny goes the other way around using the same route. How many more minutes does it take Minnie to complete the $45$-km ride than it takes Penny?\n",
+      "$\\textbf{(A)}\\ 45\\qquad\\textbf{(B)}\\ 60\\qquad\\textbf{(C)}\\ 65\\qquad\\textbf{(D)}\\ 90\\qquad\\textbf{(E)}\\ 95$\n",
+      "<a href=\"/wiki/index.php/2017_AMC_10A_Problems/Problem_9\" title=\"2017 AMC 10A Problems/Problem 9\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_10\">Problem 10</span>",
+    "subject": "A",
+    "paragraphs": [
+      "Joy has $30$ thin rods, one each of every integer length from $1$ cm through $30$ cm. She places the rods with lengths $3$ cm, $7$ cm, and $15$ cm on a table. She then wants to choose a fourth rod that she can put with these three to form a quadrilateral with positive area. How many of the remaining rods can she choose as the fourth rod?\n",
+      "$\\textbf{(A)}\\ 16\\qquad\\textbf{(B)}\\ 17\\qquad\\textbf{(C)}\\ 18\\qquad\\textbf{(D)}\\ 19\\qquad\\textbf{(E)}\\ 20$\n",
+      "<a href=\"/wiki/index.php/2017_AMC_10A_Problems/Problem_10\" title=\"2017 AMC 10A Problems/Problem 10\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_11\">Problem 11</span>",
+    "subject": "A",
+    "paragraphs": [
+      "The region consisting of all points in three-dimensional space within $3$ units of line segment $\\overline{AB}$ has volume $216\\pi$. What is the length $\\textit{AB}$?\n",
+      "$\\textbf{(A)}\\ 6\\qquad\\textbf{(B)}\\ 12\\qquad\\textbf{(C)}\\ 18\\qquad\\textbf{(D)}\\ 20\\qquad\\textbf{(E)}\\ 24$\n",
+      "<a href=\"/wiki/index.php/2017_AMC_10A_Problems/Problem_11\" title=\"2017 AMC 10A Problems/Problem 11\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_12\">Problem 12</span>",
+    "subject": "A",
+    "paragraphs": [
+      "Let $S$ be a set of points $(x,y)$ in the coordinate plane such that two of the three quantities $3,~x+2,$ and $y-4$ are equal and the third of the three quantities is no greater than this common value. Which of the following is a correct description for $S?$\n",
+      "$\\textbf{(A)}\\ \\text{a single point} \\qquad\\textbf{(B)}\\ \\text{two intersecting lines} \\\\\\qquad\\textbf{(C)}\\ \\text{ three lines whose pairwise intersections are three distinct points} \\\\\\qquad\\textbf{(D)}\\ \\text{a triangle} \\qquad\\textbf{(E)}\\ \\text{three rays with a common endpoint}$\n",
+      "<a href=\"/wiki/index.php/2017_AMC_10A_Problems/Problem_12\" title=\"2017 AMC 10A Problems/Problem 12\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_13\">Problem 13</span>",
+    "subject": "A",
+    "paragraphs": [
+      "Define a sequence recursively by $F_{0}=0,~F_{1}=1,$ and $F_{n}=$ the remainder when $F_{n-1}+F_{n-2}$ is divided by $3,$ for all $n\\geq 2.$ Thus the sequence starts $0,1,1,2,0,2,\\ldots$ What is $F_{2017}+F_{2018}+F_{2019}+F_{2020}+F_{2021}+F_{2022}+F_{2023}+F_{2024}?$\n",
+      "$\\textbf{(A)}\\ 6\\qquad\\textbf{(B)}\\ 7\\qquad\\textbf{(C)}\\ 8\\qquad\\textbf{(D)}\\ 9\\qquad\\textbf{(E)}\\ 10$\n",
+      "<a href=\"/wiki/index.php/2017_AMC_10A_Problems/Problem_13\" title=\"2017 AMC 10A Problems/Problem 13\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_14\">Problem 14</span>",
+    "subject": "A",
+    "paragraphs": [
+      "Every week Roger pays for a movie ticket and a soda out of his allowance. Last week, Roger's allowance was $A$ dollars. The cost of his movie ticket was $20\\%$ of the difference between $A$ and the cost of his soda, while the cost of his soda was $5\\%$ of the difference between $A$ and the cost of his movie ticket. To the nearest whole percent, what fraction of $A$ did Roger pay for his movie ticket and soda?\n",
+      "$\\textbf{(A)}\\ 9\\%\\qquad\\textbf{(B)}\\ 19\\%\\qquad\\textbf{(C)}\\ 22\\%\\qquad\\textbf{(D)}\\ 23\\%\\qquad\\textbf{(E)}\\ 25\\%$\n",
+      "<a href=\"/wiki/index.php/2017_AMC_10A_Problems/Problem_14\" title=\"2017 AMC 10A Problems/Problem 14\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_15\">Problem 15</span>",
+    "subject": "A",
+    "paragraphs": [
+      "Chloé chooses a real number uniformly at random from the interval $[0, 2017]$. Independently, Laurent chooses a real number uniformly at random from the interval $[0, 4034]$. What is the probability that Laurent's number is greater than Chloé's number? (Assume they cannot be equal)\n",
+      "$\\textbf{(A)}\\ \\frac{1}{2}\\qquad\\textbf{(B)}\\ \\frac{2}{3}\\qquad\\textbf{(C)}\\ \\frac{3}{4}\\qquad\\textbf{(D)}\\ \\frac{5}{6}\\qquad\\textbf{(E)}\\ \\frac{7}{8}$\n",
+      "<a href=\"/wiki/index.php/2017_AMC_10A_Problems/Problem_15\" title=\"2017 AMC 10A Problems/Problem 15\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_16\">Problem 16</span>",
+    "subject": "A",
+    "paragraphs": [
+      "There are 10 horses, named Horse 1, Horse 2, $\\ldots$, Horse 10. They get their names from how many minutes it takes them to run one lap around a circular race track: Horse $k$ runs one lap in exactly $k$ minutes. At time 0 all the horses are together at the starting point on the track. The horses start running in the same direction, and they keep running around the circular track at their constant speeds. The least time $S>0$, in minutes, at which all 10 horses will again simultaneously be at the starting point is $S=2520$. Let $T>0$ be the least time, in minutes, such that at least 5 of the horses are again at the starting point. What is the sum of the digits of $T$?\n",
+      "$\\textbf{(A)}\\ 2\\qquad\\textbf{(B)}\\ 3\\qquad\\textbf{(C)}\\ 4\\qquad\\textbf{(D)}\\ 5\\qquad\\textbf{(E)}\\ 6$\n",
+      "<a href=\"/wiki/index.php/2017_AMC_10A_Problems/Problem_16\" title=\"2017 AMC 10A Problems/Problem 16\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_17\">Problem 17</span>",
+    "subject": "A",
+    "paragraphs": [
+      "Distinct points $P$, $Q$, $R$, $S$ lie on the circle $x^2+y^2=25$ and have integer coordinates. The distances $PQ$ and $RS$  are irrational numbers. What is the greatest possible value of the ratio $\\frac{PQ}{RS}$?\n",
+      "$\\textbf{(A)}\\ 3\\qquad\\textbf{(B)}\\ 5\\qquad\\textbf{(C)}\\ 3\\sqrt{5}\\qquad\\textbf{(D)}\\ 7\\qquad\\textbf{(E)}\\ 5\\sqrt{2}$\n",
+      "<a href=\"/wiki/index.php/2017_AMC_10A_Problems/Problem_17\" title=\"2017 AMC 10A Problems/Problem 17\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_18\">Problem 18</span>",
+    "subject": "A",
+    "paragraphs": [
+      "Amelia has a coin that lands heads with probability $\\tfrac{1}{3}$, and Blaine has a coin that lands on heads with probability $\\tfrac{2}{5}$. Amelia and Blaine alternately toss their coins until someone gets a head; the first one to get a head wins. All coin tosses are independent. Amelia goes first. The probability that Amelia wins is $\\tfrac{p}{q}$, where $p$ and $q$ are relatively prime positive integers. What is $q-p$?\n",
+      "$\\textbf{(A)}\\ 1\\qquad\\textbf{(B)}\\ 2\\qquad\\textbf{(C)}\\ 3\\qquad\\textbf{(D)}\\ 4\\qquad\\textbf{(E)}\\ 5$\n",
+      "<a href=\"/wiki/index.php/2017_AMC_10A_Problems/Problem_18\" title=\"2017 AMC 10A Problems/Problem 18\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_19\">Problem 19</span>",
+    "subject": "A",
+    "paragraphs": [
+      "Alice refuses to sit next to either Bob or Carla. Derek refuses to sit next to Eric. How many ways are there for the five of them to sit in a row of 5 chairs under these conditions?\n",
+      "$\\textbf{(A)}\\ 12\\qquad\\textbf{(B)}\\ 16\\qquad\\textbf{(C)}\\ 28\\qquad\\textbf{(D)}\\ 32\\qquad\\textbf{(E)}\\ 40$\n",
+      "<a href=\"/wiki/index.php/2017_AMC_10A_Problems/Problem_19\" title=\"2017 AMC 10A Problems/Problem 19\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_20\">Problem 20</span>",
+    "subject": "A",
+    "paragraphs": [
+      "Let $S(n)$ equal the sum of the digits of positive integer $n$. For example, $S(1507) = 13$. For a particular positive integer $n$, $S(n) = 1274$. Which of the following could be the value of $S(n+1)$?\n",
+      "$\\textbf{(A)}\\ 1 \\qquad\\textbf{(B)}\\ 3\\qquad\\textbf{(C)}\\ 12\\qquad\\textbf{(D)}\\ 1239\\qquad\\textbf{(E)}\\ 1265$\n",
+      "<a href=\"/wiki/index.php/2017_AMC_10A_Problems/Problem_20\" title=\"2017 AMC 10A Problems/Problem 20\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_21\">Problem 21</span>",
+    "subject": "A",
+    "paragraphs": [
+      "A square with side length $x$ is inscribed in a right triangle with sides of length $3$, $4$, and $5$ so that one vertex of the square coincides with the right-angle vertex of the triangle. A square with side length $y$ is inscribed in another right triangle with sides of length $3$, $4$, and $5$ so that one side of the square lies on the hypotenuse of the triangle. What is $\\tfrac{x}{y}$?\n",
+      "$\\textbf{(A) } \\dfrac{12}{13} \\qquad \\textbf{(B) } \\dfrac{35}{37} \\qquad \\textbf{(C) } 1 \\qquad \\textbf{(D) } \\dfrac{37}{35} \\qquad \\textbf{(E) } \\dfrac{13}{12}$\n",
+      "<a href=\"/wiki/index.php/2017_AMC_10A_Problems/Problem_21\" title=\"2017 AMC 10A Problems/Problem 21\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_22\">Problem 22</span>",
+    "subject": "A",
+    "paragraphs": [
+      "Sides $\\overline{AB}$ and $\\overline{AC}$ of equilateral triangle $ABC$ are tangent to a circle at points $B$ and $C$ respectively.  What fraction of the area of $\\triangle ABC$ lies outside the circle?\n",
+      "$\\textbf{(A)}\\ \\frac{4\\sqrt{3}\\pi}{27}-\\frac{1}{3}\\qquad\\textbf{(B)}\\ \\frac{\\sqrt{3}}{2}-\\frac{\\pi}{8}\\qquad\\textbf{(C)}\\ \\frac{1}{2}\\qquad\\textbf{(D)}\\ \\sqrt{3}-\\frac{2\\sqrt{3}\\pi}{9}\\qquad\\textbf{(E)}\\ \\frac{4}{3}-\\frac{4\\sqrt{3}\\pi}{27}$\n",
+      "<a href=\"/wiki/index.php/2017_AMC_10A_Problems/Problem_22\" title=\"2017 AMC 10A Problems/Problem 22\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_23\">Problem 23</span>",
+    "subject": "A",
+    "paragraphs": [
+      "How many triangles with positive area have all their vertices at points $(i,j)$ in the coordinate plane, where $i$ and $j$ are integers between $1$ and $5$, inclusive?\n",
+      "$\\textbf{(A)}\\ 2128 \\qquad\\textbf{(B)}\\ 2148 \\qquad\\textbf{(C)}\\ 2160 \\qquad\\textbf{(D)}\\ 2200 \\qquad\\textbf{(E)}\\ 2300$\n",
+      "<a href=\"/wiki/index.php/2017_AMC_10A_Problems/Problem_23\" title=\"2017 AMC 10A Problems/Problem 23\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_24\">Problem 24</span>",
+    "subject": "A",
+    "paragraphs": [
+      "For certain real numbers $a$, $b$, and $c$, the polynomial <img src=\"//latex.artofproblemsolving.com/1/9/b/19bd1aae4cf00cac12042acf2f2dd99c6f179c35.png\" class=\"latexcenter\" alt=\"\\[g(x) = x^3 + ax^2 + x + 10\\]\" width=\"198\" height=\"19\">has three distinct roots, and each root of $g(x)$ is also a root of the polynomial <img src=\"//latex.artofproblemsolving.com/2/2/0/220c07851848a30837a8227c41b3ef91db1d210b.png\" class=\"latexcenter\" alt=\"\\[f(x) = x^4 + x^3 + bx^2 + 100x + c.\\]\" width=\"258\" height=\"19\">What is $f(1)$?\n",
+      "$\\textbf{(A)}\\ -9009\\qquad\\textbf{(B)}\\ -8008\\qquad\\textbf{(C)}\\ -7007\\qquad\\textbf{(D)}\\ -6006\\qquad\\textbf{(E)}\\ -5005$\n",
+      "<a href=\"/wiki/index.php/2017_AMC_10A_Problems/Problem_24\" title=\"2017 AMC 10A Problems/Problem 24\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"Problem_25\">Problem 25</span>",
+    "subject": "A",
+    "paragraphs": [
+      "How many integers between $100$ and $999$, inclusive, have the property that some permutation of its digits is a multiple of $11$ between $100$ and $999?$ For example, both $121$ and $211$ have this property.\n",
+      "$\\textbf{(A)}\\ 226\\qquad\\textbf{(B)}\\ 243\\qquad\\textbf{(C)}\\ 270\\qquad\\textbf{(D)}\\ 469\\qquad\\textbf{(E)}\\ 486$\n",
+      "<a href=\"/wiki/index.php/2017_AMC_10A_Problems/Problem_25\" title=\"2017 AMC 10A Problems/Problem 25\">Solution</a>\n"
+    ]
+  },
+  {
+    "title": "<span class=\"mw-headline\" id=\"See_also\">See also</span>",
+    "subject": "A",
+    "paragraphs": [
+      "The problems on this page are copyrighted by the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.maa.org\">Mathematical Association of America</a>'s <a rel=\"nofollow\" class=\"external text\" href=\"http://amc.maa.org\">American Mathematics Competitions</a>. <a href=\"/wiki/index.php/File:AMC_logo.png\" class=\"image\"><img alt=\"AMC logo.png\" src=\"https://wiki-images.artofproblemsolving.com//8/8b/AMC_logo.png\" width=\"97\" height=\"84\" style=\"vertical-align: middle\"></a>\n"
+    ]
+  }
+]
