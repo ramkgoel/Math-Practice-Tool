@@ -18,10 +18,16 @@
     <button id="random-button">Show Random Entry</button>
 
     <script>
-        // Function to render LaTeX in a given HTML element
-        function renderMath(element) {
-            // Trigger MathJax to render LaTeX equations in the specified element
-            MathJax.Hub.Queue(["Typeset", MathJax.Hub, element]);
+        // Function to render LaTeX within a given string
+        function renderMathInString(text) {
+            const container = document.createElement('span');
+            container.textContent = text;
+
+            // Trigger MathJax to render LaTeX equations within the container
+            MathJax.Hub.Queue(["Typeset", MathJax.Hub, container]);
+
+            // Return the HTML content after rendering LaTeX
+            return container.innerHTML;
         }
 
         // Function to fetch and display a random HTML entry
@@ -41,15 +47,9 @@
 
                 // Loop through each paragraph in the entry and render LaTeX
                 randomEntry.paragraphs.forEach(paragraph => {
-                    // Create a new paragraph element
-                    const paragraphElement = document.createElement('p');
-                    paragraphElement.textContent = paragraph;
-
-                    // Append the paragraph to the content container
-                    contentContainer.appendChild(paragraphElement);
-
-                    // Render LaTeX in the new paragraph
-                    renderMath(paragraphElement);
+                    // Render LaTeX within the paragraph and add it to the content container
+                    const renderedParagraph = renderMathInString(paragraph);
+                    contentContainer.innerHTML += `<p>${renderedParagraph}</p>`;
                 });
             } catch (error) {
                 console.error('Error fetching or displaying data:', error);
@@ -62,4 +62,3 @@
     </script>
 </body>
 </html>
-
