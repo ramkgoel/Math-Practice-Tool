@@ -37,6 +37,8 @@
                 // Display the HTML content
                 const contentContainer = document.getElementById('content-container');
                 contentContainer.innerHTML = randomEntry.paragraphs;
+
+                MathJax.Hub.Queue(["Typeset", MathJax.Hub])
             } catch (error) {
                 console.error('Error fetching or displaying data:', error);
             }
